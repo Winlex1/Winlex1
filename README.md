@@ -1,4 +1,4 @@
-# 🪐 About Me:
+# 🌏 About Me:
 I'm a software and networking engineer with experience in web, game, and software development, as well as networking and system administration. I'm currently working part-time as a WordPress developer and network engineer at Lightnet while focusing on full-stack development and expanding my expertise in AI, machine learning, and cloud technologies. I'm passionate about continuous learning, solving complex technical problems, automating workflows, and building reliable, scalable software with attention to detail.
 
 
